@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Dialog",
+        "bindType": "TRANSCEIVER",
+        "host": "127.0.0.1",
+        "port": "2776",
+        "enquireLinkTimerSecs": "10000",
+        "sourceTon": "",
+        "sourceNPI": "",
+        "destinationTon": "",
+        "destinationNPI": "",
+        "password":"password",
+        ""
+    }
+]

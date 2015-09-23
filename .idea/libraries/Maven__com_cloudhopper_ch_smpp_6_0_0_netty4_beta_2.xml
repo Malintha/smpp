@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cloudhopper:ch-smpp:6.0.0-netty4-beta-2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudhopper/ch-smpp/6.0.0-netty4-beta-2/ch-smpp-6.0.0-netty4-beta-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudhopper/ch-smpp/6.0.0-netty4-beta-2/ch-smpp-6.0.0-netty4-beta-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudhopper/ch-smpp/6.0.0-netty4-beta-2/ch-smpp-6.0.0-netty4-beta-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
